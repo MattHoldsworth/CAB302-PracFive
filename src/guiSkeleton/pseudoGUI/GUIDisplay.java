@@ -1,7 +1,8 @@
-package pseudoGUI;
+package guiSkeleton.pseudoGUI;
 
-import guiEvents.GUIEvent;
-import guiEvents.GUIEventListener;
+import guiSkeleton.guiEvents.GUIEvent;
+import guiSkeleton.guiEvents.GUIEventListener;
+
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 

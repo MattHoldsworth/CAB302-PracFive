@@ -1,6 +1,6 @@
-package pseudoGUI;
+package guiSkeleton.pseudoGUI;
 
-import guiEvents.GUIEventSource;
+import guiSkeleton.guiEvents.GUIEventSource;
 
 import java.util.Random;
 

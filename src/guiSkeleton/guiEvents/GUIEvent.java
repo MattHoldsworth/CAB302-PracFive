@@ -1,4 +1,4 @@
-package guiEvents;
+package guiSkeleton.guiEvents;
 
 import java.util.EventObject;
 

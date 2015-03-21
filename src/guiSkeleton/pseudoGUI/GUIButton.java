@@ -1,8 +1,8 @@
-package pseudoGUI;
+package guiSkeleton.pseudoGUI;
 
-import guiEvents.GUIEvent;
-import guiEvents.GUIEventListener;
-import guiEvents.GUIEventSource;
+import guiSkeleton.guiEvents.GUIEvent;
+import guiSkeleton.guiEvents.GUIEventListener;
+import guiSkeleton.guiEvents.GUIEventSource;
 
 import java.util.ListIterator;
 import java.util.ArrayList;

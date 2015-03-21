@@ -1,4 +1,4 @@
-package guiEvents;
+package guiSkeleton.guiEvents;
 
 /**
  * Event source interface for GUIEvents  
